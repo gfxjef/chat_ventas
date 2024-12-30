@@ -1,0 +1,21 @@
+[
+    {
+        "Pedido": {
+            "accion": "agregar_pedido",
+            "id_unico": "3e2101e9",
+            "datos_cliente": {
+                "nombre": "Cliente Anónimo",
+                "telefono": "Desconocido",
+                "direccion": "Desconocida",
+                "modalidad_entrega": "No especificada"
+            },
+            "productos": [
+                {
+                    "nombre": "Coca cola Classic 1 LT",
+                    "sku": "7750182001236",
+                    "precio_bayovar": 5.5
+                }
+            ]
+        }
+    }
+]
